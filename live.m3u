@@ -4,7 +4,7 @@ https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
 https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41140/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5PLUS" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
 https://z88.ubtvfans.com/live/rx1/205/bbae16a4af97900c4a075180f6d001f9/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
